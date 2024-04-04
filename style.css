@@ -64,7 +64,7 @@
   #light:target ~ .content {
     background-color: #2e83bf;
   }
-  .satallite {
+  .satellite {
     width: 6em;
     height: 6em;
     position: absolute;
@@ -81,7 +81,7 @@
   #light:target ~ .content > .satallite {
     left: 5%;
   }
-  .satallite::before {
+  .satellite::before {
     content: '';
     width: 100%;
     height: 100%;
