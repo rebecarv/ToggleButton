@@ -1,5 +1,5 @@
-Toggle Button for Light/Night Mode
-This simple toggle button is designed using only HTML and CSS to switch between light and night mode with a click.
+Toggle Button for Day/Night Mode
+This simple toggle button is designed using only HTML and CSS to switch between light and dark mode with a click.
 
 Usage:
 - Clone or download the HTML and CSS files.
