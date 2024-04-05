@@ -75,10 +75,10 @@
     z-index: 1;
     transition: var(--transition);
   }
-  #dark:target ~ .content > .satallite {
+  #dark:target ~ .content > .satellite {
     left: 65%;
   }
-  #light:target ~ .content > .satallite {
+  #light:target ~ .content > .satellite {
     left: 5%;
   }
   .satellite::before {
